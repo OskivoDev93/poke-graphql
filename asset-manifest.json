@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/poke-graphql/static/css/main.c20dadcc.chunk.css",
+    "main.js": "/poke-graphql/static/js/main.6376abf1.chunk.js",
+    "main.js.map": "/poke-graphql/static/js/main.6376abf1.chunk.js.map",
+    "runtime-main.js": "/poke-graphql/static/js/runtime-main.e758fd45.js",
+    "runtime-main.js.map": "/poke-graphql/static/js/runtime-main.e758fd45.js.map",
+    "static/js/2.d7246c17.chunk.js": "/poke-graphql/static/js/2.d7246c17.chunk.js",
+    "static/js/2.d7246c17.chunk.js.map": "/poke-graphql/static/js/2.d7246c17.chunk.js.map",
+    "index.html": "/poke-graphql/index.html",
+    "precache-manifest.4f7780c703f714c835e058a3ad4c99ed.js": "/poke-graphql/precache-manifest.4f7780c703f714c835e058a3ad4c99ed.js",
+    "service-worker.js": "/poke-graphql/service-worker.js",
+    "static/css/main.c20dadcc.chunk.css.map": "/poke-graphql/static/css/main.c20dadcc.chunk.css.map",
+    "static/js/2.d7246c17.chunk.js.LICENSE.txt": "/poke-graphql/static/js/2.d7246c17.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e758fd45.js",
+    "static/js/2.d7246c17.chunk.js",
+    "static/css/main.c20dadcc.chunk.css",
+    "static/js/main.6376abf1.chunk.js"
+  ]
+}
